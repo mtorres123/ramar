@@ -1,0 +1,10 @@
+Package: ramar
+Title: Process CIDCM (A)MAR Data
+Version: 0.0.0.9000
+Authors@R: person("Chandler", "Armstrong", email = "chandler.m.armstrong@erdc.dren.mil", role = c("aut", "cre"))
+Description: The ramar package absorbs the most recent conflict data from the (A)MAR data source, and produces a simplified data frame for R processing.
+Depends: R (>= 3.4.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
